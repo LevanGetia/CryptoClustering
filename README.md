@@ -3,6 +3,9 @@
 
 Introduction
 
+
+
+
 This challenge entails an in-depth analysis and application of the K-Means clustering algorithm, aiming to comprehend the nuances of data segmentation and its implications.
 
 Objectives
